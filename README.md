@@ -45,6 +45,7 @@ The provided code is user-friendly and allows customization:
 - Results can be saved as high-resolution PDF or PNG files for analysis.
 
 This experiment underscores AccAsro’s ability to combine fast convergence with stability across diverse optimization challenges.
+
 ---
 
 ### Experiment 2 – Generative Pre-Training
